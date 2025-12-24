@@ -8,6 +8,7 @@ This project extracts frames from a video, computes optical flow between consecu
 ---
 
 ## 🔍 Why This Project Is Interesting
+<img width="1589" height="680" alt="optc_viz" src="https://github.com/user-attachments/assets/93d456bf-6996-4503-a7f9-4a1c326e817b" />
 
 Understanding motion is a core problem in computer vision. Optical flow allows us to:
 - Analyze how objects move over time
@@ -239,6 +240,7 @@ Built with **Python + OpenCV**
 December 2025
 
 **Enjoy exploring motion in your videos!**
+
 
 
 
