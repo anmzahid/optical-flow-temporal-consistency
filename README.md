@@ -51,7 +51,7 @@ Perfect for:
 
 ## 📁 Project Structure
 
-
+```
 
 optical_flow_project/
 ├── main.py                     # Main script – runs the full pipeline
@@ -68,7 +68,7 @@ optical_flow_project/
 ├── flows/                      # Auto-created: optical flow visualization images
 ├── flow_analysis_plot.png      # Auto-created: motion statistics plot
 └── demo_optical_flow.mp4       # Auto-created: final result video
-
+```
 
 
 ---
@@ -239,6 +239,7 @@ Built with **Python + OpenCV**
 December 2025
 
 **Enjoy exploring motion in your videos!**
+
 
 
 
