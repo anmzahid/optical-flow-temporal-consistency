@@ -1,8 +1,4 @@
-Here is a **clean, GitHub-ready `README.md`** version of your project. You can **copy–paste this directly** into your repository’s `README.md` file.
 
----
-
-```markdown
 # Optical Flow Temporal Consistency
 
 A modular, easy-to-use Python tool for analyzing motion in videos using **dense optical flow** (Farneback algorithm from OpenCV).
@@ -55,7 +51,7 @@ Perfect for:
 
 ## 📁 Project Structure
 
-```
+
 
 optical_flow_project/
 ├── main.py                     # Main script – runs the full pipeline
@@ -73,7 +69,7 @@ optical_flow_project/
 ├── flow_analysis_plot.png      # Auto-created: motion statistics plot
 └── demo_optical_flow.mp4       # Auto-created: final result video
 
-````
+
 
 ---
 
@@ -90,10 +86,10 @@ optical_flow_project/
 
 ### 1. Clone the Repository
 
-```bash
+bash
 git clone https://github.com/yourusername/optical_flow_project.git
 cd optical_flow_project
-````
+
 
 ### 2. Install Dependencies
 
@@ -244,15 +240,5 @@ December 2025
 
 **Enjoy exploring motion in your videos!**
 
-```
 
----
 
-If you want next:
-- ⭐ **Badge section** (Python, OpenCV, License)
-- 📸 **GIF / demo video preview**
-- 🧠 **Research-style motivation**
-- 📈 **Results section**
-
-Just tell me 👍
-```
