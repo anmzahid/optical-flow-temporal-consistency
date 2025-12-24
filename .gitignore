@@ -1,0 +1,42 @@
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Common virtual environment names
+myenv/
+virtualenv/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated folders (from your project)
+frames/
+flows/
+
+# Large media files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Generated outputs
+flow_analysis_plot.png
+demo_*.mp4
